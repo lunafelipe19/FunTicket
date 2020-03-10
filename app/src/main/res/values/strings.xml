@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Funticket</string>
+    <string name="processing">Processando…</string>
 </resources>

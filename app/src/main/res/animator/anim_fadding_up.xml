@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ordering="sequentially">
+
+    <set
+        android:duration="@android:integer/config_longAnimTime"
+        android:ordering="sequentially">
+        <objectAnimator
+            android:propertyName="alpha"
+            android:valueTo="0f"/>
+
+        <objectAnimator
+            android:propertyName="alpha"
+            android:valueTo="1f"
+            android:duration="1200"/>
+    </set>
+</set>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- FILES OR PROPRIES USED IN APP - DO NOT CHANGE! -->
+    <string name="playstore_market_intent" translatable="false">market://details?id=</string>
+    <string name="playstore_url" translatable="false">https://play.google.com/store/apps/details?id=</string>
+    <string name="linkedin_ailton" translatable="false">ailtontk</string>
+
+    <!-- ADMOB - DO NOT CHANGE! -->
+    <string name="ad_test_device_id" translatable="false">33BE2250B43518CCDA7DE426D04EE232</string>
+    <string name="ad_device_id" translatable="false">33BE2250B43518CCDA7DE426D04EE232</string>
+    <string name="ad_app_id" translatable="false">ca-app-pub-6039034092082233~8353290108</string>
+
+    <!-- INTENT FILTERS -->
+    <string name="intent_category" translatable="false">intent_category</string>
+
+    <!-- PREFERENCES -->
+    <string name="prefs" translatable="false">prefs</string>
+    <string name="prefs_play_sound" translatable="false">prefs_play_sound</string>
+
+</resources>
